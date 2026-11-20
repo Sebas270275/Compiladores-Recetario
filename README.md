@@ -1,6 +1,6 @@
 # RecetaLang
 
-RecetaLang es un lenguaje de dominio específico para representar recetas mediante instrucciones de ingredientes, mezcla y cocción. Este repositorio contiene un compilador pequeño en Python, escrito a mano para facilitar su lectura y explicación en la defensa del curso de Compiladores.
+RecetaLang es un lenguaje de dominio específico para representar recetas mediante instrucciones de ingredientes, mezcla y cocción. Este repositorio contiene un compilador pequeño en Python, escrito a mano para facilitar su lectura.
 
 ## Requisitos
 
